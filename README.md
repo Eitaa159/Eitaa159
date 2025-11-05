@@ -1,23 +1,29 @@
 # 👋 Hi, I'm Eitaa Alsayed
 
-🎓 Computer Science | Master's Degree  
-💻 Focus: Cybersecurity & Data Analysis  
-🌍 Based in Saudi Arabia  
+🎓 Master's in Computer Science  
+🔐 Cybersecurity & Data Enthusiast  
+📍 Saudi Arabia  
 
 ## 🌱 Currently Learning
-- SIEM & Log Analysis (SOC Foundation)
-- Python for Data Analysis
+- SOC & SIEM (Blue Team fundamentals)
+- Log analysis & Windows event monitoring
 - SQL & Power BI
+- Python for Data
 
-## 🎯 Goals
-- Become a SOC Analyst (Blue Team)
-- Build practical security & data projects
-- Share my learning journey here
+## 🎯 Career Goals
+- SOC Analyst / Cybersecurity Analyst
+- Entry-level Data Analyst
 
-## 🧠 Skills
-- Cybersecurity fundamentals, Networking (CCNA)
-- Python, SQL, Power BI, Excel
-- Web fundamentals (HTML, CSS, JS)
+## 💡 Skills
+- Networking (CCNA fundamentals), Security awareness
+- SIEM basics, Linux commands, Wireshark
+- SQL, Power BI, Excel
+- HTML, CSS, JavaScript, Python basics
 
-## 📫 Connect With Me
+## 📂 Portfolio (Work in Progress)
+- Cyber Security Labs & Blue Team Notes
+- Data Analytics Dashboards
+
+## 📫 Contact
 - LinkedIn: linkedin.com/in/eitaa-alsayed
+- Email: etaa.alsayed@gmail.com
