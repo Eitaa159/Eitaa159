@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Eitaa Alsayed
 
-<!--
-**Eitaa159/Eitaa159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science | Master's Degree  
+💻 Focus: Cybersecurity & Data Analysis  
+🌍 Based in Saudi Arabia  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- SIEM & Log Analysis (SOC Foundation)
+- Python for Data Analysis
+- SQL & Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a SOC Analyst (Blue Team)
+- Build practical security & data projects
+- Share my learning journey here
+
+## 🧠 Skills
+- Cybersecurity fundamentals, Networking (CCNA)
+- Python, SQL, Power BI, Excel
+- Web fundamentals (HTML, CSS, JS)
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/eitaa-alsayed
