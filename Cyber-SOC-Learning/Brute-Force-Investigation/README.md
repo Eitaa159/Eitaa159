@@ -15,6 +15,12 @@ Analyze Windows Security Event Logs to detect brute-force login attempts.
 4️⃣ Checked for Event ID 4624 after failures  
 5️⃣ Documented findings in Incident Report  
 
+### Files in this folder
+- FailedLogins_4625.evtx — exported failed login events
+- SuccessLogins_4624.evtx — exported successful login events (if present)
+- Findings.md — summary & recommendations
+
+
 ### 📊 Findings Summary
 - Repeated failed logins suggest possible brute-force attack  
 - Need further monitoring and blocking if pattern continues  
