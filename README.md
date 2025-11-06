@@ -20,9 +20,10 @@
 - SQL, Power BI, Excel
 - HTML, CSS, JavaScript, Python basics
 
-## 📂 Portfolio (Work in Progress)
-- Cyber Security Labs & Blue Team Notes
-- Data Analytics Dashboards
+## 📂 Projects
+- [Supermarket Sales Dashboard](./Data-Analysis-Projects/Supermarket-Sales-Dashboard) — Power BI dashboard (Excel -> Power BI)
+- [Windows Brute-Force Investigation](./Cyber-SOC-Learning/Brute-Force-Investigation) — EVTX analysis, parsed CSV, and findings report
+
 
 ## 📫 Contact
 - LinkedIn: linkedin.com/in/eitaa-alsayed
